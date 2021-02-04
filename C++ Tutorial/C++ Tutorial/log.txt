@@ -1,0 +1,935 @@
+Couldn't load file 'ByteCode/GlobalCode.bin'
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, PressStart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TouchToStart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StartGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TimeAttack)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Achievements)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Leaderboards)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpAndOptions)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SoundTest)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TwoPlayerVS)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveSelect)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, PlayerSelect)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NoSave)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NewGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Delete)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DeleteSavedGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Yes)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, No)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Sonic)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Tails)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Knuckles)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Pause)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Continue)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Restart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Exit)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DevMenu)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, RestartMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, RestartMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NetworkMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName6)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName7)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName8)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName6)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName7)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName8)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName9)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName10)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName11)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName12)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName13)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName14)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName15)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName16)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName17)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName18)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName19)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName20)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName21)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName22)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName23)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName24)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName25)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName26)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NewBestTime)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Records)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NextAct)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Play)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TotalTime)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Instructions)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Settings)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StaffCredits)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, About)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Music)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SoundFX)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SpinDash)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, BoxArt)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Controls)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, On)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Off)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, CustomizeDPad)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DPadSize)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DPadOpacity)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Version)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Privacy)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Terms)
+Couldn't load file 'Data/Game/CreditsMobile.txt'
+Couldn't load file 'Data/Game/GameConfig.bin'
+Couldn't load file 'Data/Game/SystemText.gif'
+Couldn't load file 'Data/Game/SystemText.gif'
+Couldn't load file 'Data/Game/GameConfig.bin'
+Couldn't load file 'ByteCode/GlobalCode.bin'
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, PressStart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TouchToStart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StartGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TimeAttack)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Achievements)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Leaderboards)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpAndOptions)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SoundTest)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TwoPlayerVS)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveSelect)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, PlayerSelect)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NoSave)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NewGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Delete)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DeleteSavedGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Yes)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, No)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Sonic)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Tails)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Knuckles)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Pause)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Continue)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Restart)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Exit)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DevMenu)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, RestartMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, RestartMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, ExitGame)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NetworkMessage)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName6)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName7)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StageName8)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName6)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName7)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName8)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName9)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName10)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName11)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName12)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName13)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName14)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName15)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName16)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName17)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName18)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName19)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName20)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName21)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName22)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName23)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName24)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName25)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SaveStageName26)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NewBestTime)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Records)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, NextAct)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Play)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, TotalTime)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Instructions)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Settings)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, StaffCredits)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, About)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Music)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SoundFX)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, SpinDash)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, BoxArt)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Controls)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, On)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Off)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, CustomizeDPad)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DPadSize)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, DPadOpacity)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText1)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText2)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText3)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText4)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, HelpText5)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Version)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Privacy)
+Couldn't load file 'Data/Game/StringList.txt'
+Failed to load string... (en, Terms)
+Couldn't load file 'Data/Game/CreditsMobile.txt'
+Couldn't load file 'Data/Game/GameConfig.bin'
+Couldn't load file 'Data/Game/SystemText.gif'
+Couldn't load file 'Data/Game/SystemText.gif'
+Couldn't load file 'Data/Game/GameConfig.bin'
+Loaded File 'ByteCode/GlobalCode.bin'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Failed to load string... (en, TwoPlayerVS)
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/CreditsMobile.txt'
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'Data/Game/Gameconfig.bin'
+Set SFX (0) name to: Jump
+Set SFX (1) name to: Ring L
+Set SFX (2) name to: Ring R
+Set SFX (3) name to: Skidding
+Set SFX (4) name to: Lose Rings
+Set SFX (5) name to: Hurt
+Set SFX (6) name to: Charge
+Set SFX (7) name to: Release
+Set SFX (8) name to: Destroy
+Set SFX (9) name to: Lamp Post
+Set SFX (10) name to: Blue Shield
+Set SFX (11) name to: Spring
+Set SFX (12) name to: Sign Post
+Set SFX (13) name to: Score Add
+Set SFX (14) name to: Score Total
+Set SFX (15) name to: Special Ring
+Set SFX (16) name to: Warp
+Set SFX (17) name to: Explosion
+Set SFX (18) name to: Rolling
+Set SFX (19) name to: Flying
+Set SFX (20) name to: Tired
+Set SFX (21) name to: Menu Move
+Set SFX (22) name to: Menu Select
+Set SFX (23) name to: Menu Back
+Set SFX (24) name to: Life
+Set SFX (25) name to: Landing
+Set SFX (26) name to: Sliding
+Set SFX (27) name to: Catch
+Set SFX (28) name to: Bonus Points
+Set SFX (29) name to: Spikes Move
+Set SFX (30) name to: Bubble Shield
+Set SFX (31) name to: Bubble Bounce
+Set SFX (32) name to: Fire Shield
+Set SFX (33) name to: Fire Dash
+Set SFX (34) name to: Lightning Shield
+Set SFX (35) name to: Lightning Jump
+Set SFX (36) name to: Insta Shield
+Set SFX (37) name to: Transform
+Set SFX (38) name to: Spike
+Set SFX (39) name to: Event
+Set SFX (40) name to: Resume
+Loaded File 'Data/SoundFX/Global/Jump.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Skidding.wav'
+Loaded File 'Data/SoundFX/Global/LoseRings.wav'
+Loaded File 'Data/SoundFX/Global/Hurt.wav'
+Loaded File 'Data/SoundFX/Global/Charge.wav'
+Loaded File 'Data/SoundFX/Global/Release.wav'
+Loaded File 'Data/SoundFX/Global/Destroy.wav'
+Loaded File 'Data/SoundFX/Global/LampPost.wav'
+Loaded File 'Data/SoundFX/Global/BlueShield.wav'
+Loaded File 'Data/SoundFX/Global/Spring.wav'
+Loaded File 'Data/SoundFX/Global/SignPost.wav'
+Loaded File 'Data/SoundFX/Global/ScoreAdd.wav'
+Loaded File 'Data/SoundFX/Global/ScoreTotal.wav'
+Loaded File 'Data/SoundFX/Global/SpecialRing.wav'
+Loaded File 'Data/SoundFX/Global/SpecialWarp.wav'
+Loaded File 'Data/SoundFX/Global/Explosion.wav'
+Loaded File 'Data/SoundFX/Global/Rolling.wav'
+Loaded File 'Data/SoundFX/Global/Flying.wav'
+Loaded File 'Data/SoundFX/Global/Tired.wav'
+Loaded File 'Data/SoundFX/Global/MenuButton.wav'
+Loaded File 'Data/SoundFX/Global/Select.wav'
+Loaded File 'Data/SoundFX/Global/BackButton.wav'
+Loaded File 'Data/SoundFX/Global/1Up.wav'
+Loaded File 'Data/SoundFX/Global/Landing.wav'
+Loaded File 'Data/SoundFX/Global/Sliding.wav'
+Loaded File 'Data/SoundFX/Global/Catch.wav'
+Loaded File 'Data/SoundFX/Global/BonusPoints.wav'
+Loaded File 'Data/SoundFX/Global/SpikesMove.wav'
+Loaded File 'Data/SoundFX/Global/BubbleShield.wav'
+Loaded File 'Data/SoundFX/Global/BubbleBounce.wav'
+Loaded File 'Data/SoundFX/Global/FireShield.wav'
+Loaded File 'Data/SoundFX/Global/FireDash.wav'
+Loaded File 'Data/SoundFX/Global/LightningShield.wav'
+Loaded File 'Data/SoundFX/Global/LightningJump.wav'
+Loaded File 'Data/SoundFX/Global/InstaShield.wav'
+Loaded File 'Data/SoundFX/Global/Transform.wav'
+Loaded File 'Data/SoundFX/Global/Spike.wav'
+Loaded File 'Data/SoundFX/Global/Event.wav'
+Loaded File 'Data/SoundFX/Global/Resume.wav'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Set Object (0) name to: Blank Object
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'ByteCode/GlobalCode.bin'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Failed to load string... (en, TwoPlayerVS)
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/CreditsMobile.txt'
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'Data/Game/Gameconfig.bin'
+Set SFX (0) name to: Jump
+Set SFX (1) name to: Ring L
+Set SFX (2) name to: Ring R
+Set SFX (3) name to: Skidding
+Set SFX (4) name to: Lose Rings
+Set SFX (5) name to: Hurt
+Set SFX (6) name to: Charge
+Set SFX (7) name to: Release
+Set SFX (8) name to: Destroy
+Set SFX (9) name to: Lamp Post
+Set SFX (10) name to: Blue Shield
+Set SFX (11) name to: Spring
+Set SFX (12) name to: Sign Post
+Set SFX (13) name to: Score Add
+Set SFX (14) name to: Score Total
+Set SFX (15) name to: Special Ring
+Set SFX (16) name to: Warp
+Set SFX (17) name to: Explosion
+Set SFX (18) name to: Rolling
+Set SFX (19) name to: Flying
+Set SFX (20) name to: Tired
+Set SFX (21) name to: Menu Move
+Set SFX (22) name to: Menu Select
+Set SFX (23) name to: Menu Back
+Set SFX (24) name to: Life
+Set SFX (25) name to: Landing
+Set SFX (26) name to: Sliding
+Set SFX (27) name to: Catch
+Set SFX (28) name to: Bonus Points
+Set SFX (29) name to: Spikes Move
+Set SFX (30) name to: Bubble Shield
+Set SFX (31) name to: Bubble Bounce
+Set SFX (32) name to: Fire Shield
+Set SFX (33) name to: Fire Dash
+Set SFX (34) name to: Lightning Shield
+Set SFX (35) name to: Lightning Jump
+Set SFX (36) name to: Insta Shield
+Set SFX (37) name to: Transform
+Set SFX (38) name to: Spike
+Set SFX (39) name to: Event
+Set SFX (40) name to: Resume
+Loaded File 'Data/SoundFX/Global/Jump.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Skidding.wav'
+Loaded File 'Data/SoundFX/Global/LoseRings.wav'
+Loaded File 'Data/SoundFX/Global/Hurt.wav'
+Loaded File 'Data/SoundFX/Global/Charge.wav'
+Loaded File 'Data/SoundFX/Global/Release.wav'
+Loaded File 'Data/SoundFX/Global/Destroy.wav'
+Loaded File 'Data/SoundFX/Global/LampPost.wav'
+Loaded File 'Data/SoundFX/Global/BlueShield.wav'
+Loaded File 'Data/SoundFX/Global/Spring.wav'
+Loaded File 'Data/SoundFX/Global/SignPost.wav'
+Loaded File 'Data/SoundFX/Global/ScoreAdd.wav'
+Loaded File 'Data/SoundFX/Global/ScoreTotal.wav'
+Loaded File 'Data/SoundFX/Global/SpecialRing.wav'
+Loaded File 'Data/SoundFX/Global/SpecialWarp.wav'
+Loaded File 'Data/SoundFX/Global/Explosion.wav'
+Loaded File 'Data/SoundFX/Global/Rolling.wav'
+Loaded File 'Data/SoundFX/Global/Flying.wav'
+Loaded File 'Data/SoundFX/Global/Tired.wav'
+Loaded File 'Data/SoundFX/Global/MenuButton.wav'
+Loaded File 'Data/SoundFX/Global/Select.wav'
+Loaded File 'Data/SoundFX/Global/BackButton.wav'
+Loaded File 'Data/SoundFX/Global/1Up.wav'
+Loaded File 'Data/SoundFX/Global/Landing.wav'
+Loaded File 'Data/SoundFX/Global/Sliding.wav'
+Loaded File 'Data/SoundFX/Global/Catch.wav'
+Loaded File 'Data/SoundFX/Global/BonusPoints.wav'
+Loaded File 'Data/SoundFX/Global/SpikesMove.wav'
+Loaded File 'Data/SoundFX/Global/BubbleShield.wav'
+Loaded File 'Data/SoundFX/Global/BubbleBounce.wav'
+Loaded File 'Data/SoundFX/Global/FireShield.wav'
+Loaded File 'Data/SoundFX/Global/FireDash.wav'
+Loaded File 'Data/SoundFX/Global/LightningShield.wav'
+Loaded File 'Data/SoundFX/Global/LightningJump.wav'
+Loaded File 'Data/SoundFX/Global/InstaShield.wav'
+Loaded File 'Data/SoundFX/Global/Transform.wav'
+Loaded File 'Data/SoundFX/Global/Spike.wav'
+Loaded File 'Data/SoundFX/Global/Event.wav'
+Loaded File 'Data/SoundFX/Global/Resume.wav'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Set Object (0) name to: Blank Object
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'ByteCode/GlobalCode.bin'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Failed to load string... (en, TwoPlayerVS)
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/StringList.txt'
+Loaded File 'Data/Game/CreditsMobile.txt'
+Loaded File 'Data/Game/GameConfig.bin'
+Loaded File 'Data/Game/Gameconfig.bin'
+Set SFX (0) name to: Jump
+Set SFX (1) name to: Ring L
+Set SFX (2) name to: Ring R
+Set SFX (3) name to: Skidding
+Set SFX (4) name to: Lose Rings
+Set SFX (5) name to: Hurt
+Set SFX (6) name to: Charge
+Set SFX (7) name to: Release
+Set SFX (8) name to: Destroy
+Set SFX (9) name to: Lamp Post
+Set SFX (10) name to: Blue Shield
+Set SFX (11) name to: Spring
+Set SFX (12) name to: Sign Post
+Set SFX (13) name to: Score Add
+Set SFX (14) name to: Score Total
+Set SFX (15) name to: Special Ring
+Set SFX (16) name to: Warp
+Set SFX (17) name to: Explosion
+Set SFX (18) name to: Rolling
+Set SFX (19) name to: Flying
+Set SFX (20) name to: Tired
+Set SFX (21) name to: Menu Move
+Set SFX (22) name to: Menu Select
+Set SFX (23) name to: Menu Back
+Set SFX (24) name to: Life
+Set SFX (25) name to: Landing
+Set SFX (26) name to: Sliding
+Set SFX (27) name to: Catch
+Set SFX (28) name to: Bonus Points
+Set SFX (29) name to: Spikes Move
+Set SFX (30) name to: Bubble Shield
+Set SFX (31) name to: Bubble Bounce
+Set SFX (32) name to: Fire Shield
+Set SFX (33) name to: Fire Dash
+Set SFX (34) name to: Lightning Shield
+Set SFX (35) name to: Lightning Jump
+Set SFX (36) name to: Insta Shield
+Set SFX (37) name to: Transform
+Set SFX (38) name to: Spike
+Set SFX (39) name to: Event
+Set SFX (40) name to: Resume
+Loaded File 'Data/SoundFX/Global/Jump.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Ring.wav'
+Loaded File 'Data/SoundFX/Global/Skidding.wav'
+Loaded File 'Data/SoundFX/Global/LoseRings.wav'
+Loaded File 'Data/SoundFX/Global/Hurt.wav'
+Loaded File 'Data/SoundFX/Global/Charge.wav'
+Loaded File 'Data/SoundFX/Global/Release.wav'
+Loaded File 'Data/SoundFX/Global/Destroy.wav'
+Loaded File 'Data/SoundFX/Global/LampPost.wav'
+Loaded File 'Data/SoundFX/Global/BlueShield.wav'
+Loaded File 'Data/SoundFX/Global/Spring.wav'
+Loaded File 'Data/SoundFX/Global/SignPost.wav'
+Loaded File 'Data/SoundFX/Global/ScoreAdd.wav'
+Loaded File 'Data/SoundFX/Global/ScoreTotal.wav'
+Loaded File 'Data/SoundFX/Global/SpecialRing.wav'
+Loaded File 'Data/SoundFX/Global/SpecialWarp.wav'
+Loaded File 'Data/SoundFX/Global/Explosion.wav'
+Loaded File 'Data/SoundFX/Global/Rolling.wav'
+Loaded File 'Data/SoundFX/Global/Flying.wav'
+Loaded File 'Data/SoundFX/Global/Tired.wav'
+Loaded File 'Data/SoundFX/Global/MenuButton.wav'
+Loaded File 'Data/SoundFX/Global/Select.wav'
+Loaded File 'Data/SoundFX/Global/BackButton.wav'
+Loaded File 'Data/SoundFX/Global/1Up.wav'
+Loaded File 'Data/SoundFX/Global/Landing.wav'
+Loaded File 'Data/SoundFX/Global/Sliding.wav'
+Loaded File 'Data/SoundFX/Global/Catch.wav'
+Loaded File 'Data/SoundFX/Global/BonusPoints.wav'
+Loaded File 'Data/SoundFX/Global/SpikesMove.wav'
+Loaded File 'Data/SoundFX/Global/BubbleShield.wav'
+Loaded File 'Data/SoundFX/Global/BubbleBounce.wav'
+Loaded File 'Data/SoundFX/Global/FireShield.wav'
+Loaded File 'Data/SoundFX/Global/FireDash.wav'
+Loaded File 'Data/SoundFX/Global/LightningShield.wav'
+Loaded File 'Data/SoundFX/Global/LightningJump.wav'
+Loaded File 'Data/SoundFX/Global/InstaShield.wav'
+Loaded File 'Data/SoundFX/Global/Transform.wav'
+Loaded File 'Data/SoundFX/Global/Spike.wav'
+Loaded File 'Data/SoundFX/Global/Event.wav'
+Loaded File 'Data/SoundFX/Global/Resume.wav'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Set Object (0) name to: Blank Object
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/SystemText.gif'
+Loaded File 'Data/Game/GameConfig.bin'
