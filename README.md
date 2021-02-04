@@ -10,8 +10,7 @@ This is a Launcher intended to run Sonic  1,2,CD,and 3 (2011,2013,2019) it inten
 <br>![Screenshot 2021-04-02 at 5 08 54 PM](https://user-images.githubusercontent.com/65929380/106548955-f7085300-64dd-11eb-926d-3e8d109c8752.png)
 ![Screenshot 2021-04-02 at 5 08 54 PM](https://user-images.githubusercontent.com/65929380/106548956-f7085300-64dd-11eb-9eb5-550bf14e1016.png)
 
-Here you can read up on info for the Games such as their Release Dates,Plots, Prototypes, Cheat Codes, and Interviews.
-You can also view Promotional Artwork, the Games Manuals, and Unused Content.
+Here you can read up on info for the Games such as their Prototypes, Cheat Codes, and Interviews. You can also view Promotional Artwork, the Games Manuals, and Unused Content.
 
 === Controller Support ===
 You'll be able to use Xbox Controllers, PS4 Controllers, and Custom Controllers! (Although for those you'll need to set them up.)
