@@ -1,4 +1,4 @@
-# Sonic-Trilogy-Remastered-Launcher
+# Sonic Trilogy: Remastered
 
 ![Screenshot 2021-04-02 at 5 08 54 PM](https://user-images.githubusercontent.com/65929380/106548954-f7085300-64dd-11eb-9fec-bc63ca61f442.png)
 ![Screenshot 2021-04-02 at 5 08 54 PM](https://user-images.githubusercontent.com/65929380/106548952-f66fbc80-64dd-11eb-9ea6-36dfe0fe6224.png)</br>
