@@ -19,30 +19,30 @@ Here you can do multiple things regarding one of the 5 Launchable games: Look at
 ## What versions of the game are supported?
 
 ### Sonic the Hedgehog
-Original (1991) - Must own on Steam.
-Sonic 1 Remastered (2013) - Requires the Decompilation from Rubberduckycooly
-Sonic Forever (2021) - Must own Sonic Forever as an EXE
-Sonic 1: South Island Enchanced - Planned, When it releases.
+-Original (1991) - Must own on Steam.
+-Sonic 1 Remastered (2013) - Requires the Decompilation from Rubberduckycooly
+-Sonic Forever (2021) - Must own Sonic Forever as an EXE
+-Sonic 1: South Island Enchanced - Planned, When it releases.
 
 ### Sonic the Hedgehog 2
-Original (1992) - Must own on steam.
-Sonic 2 Remastered (2013) - Requires Decompilation from Rubberduckycooly
-Sonic 2 Forever (????) - Planned, When it releases
+-Original (1992) - Must own on steam.
+-Sonic 2 Remastered (2013) - Requires Decompilation from Rubberduckycooly
+-Sonic 2 Forever (????) - Planned, When it releases
 
 ### Sonic the Hedgehog 3
-Original (1994) - Must own on steam.
-Sonic & Knuckles Collection (1992) - Must own physical disk.
-Sonic 3 Angel Island Revisited - Must own both S3K on Steam and Sonic 3 AIR.
+-Original (1994) - Must own on Steam.
+-Sonic & Knuckles Collection (1992) - Must own physical disk.
+-Sonic 3 Angel Island Revisited - Must own both S3K on Steam and Sonic 3 AIR.
 
 ## Sonic the Hedgehog CD
-Original (1993) - Must have a legally ripped copy of the Sonic CD ISO.
-PC (1996) - Must have a copy of the Sonic CD PC Port Disc/Patched with Sega PC Reloaded.
-Steam (2011) - Requires you to own it on Steam.
-Remaster (2011) - Requires you to have the RSDKv3 Decomp by Rubberduckycooly.
+-Original (1993) - Must have a legally ripped copy of the Sonic CD ISO.
+-PC (1996) - Must have a copy of the Sonic CD PC Port Disc/Patched with Sega PC Reloaded.
+-Steam (2011) - Requires you to own it on Steam.
+-Remaster (2011) - Requires you to have the RSDKv3 Decomp by Rubberduckycooly.
 
 ### Sonic Mania
-Steam (2017) - Must own it on steam.
-Epic Games (2017) - Must own it on the Epic Games Store.
+-Steam (2017) - Must own it on steam.
+-Epic Games (2017) - Must own it on the Epic Games Store.
 
 Above is the list of all the versions of a game that Sonic Unison will support, have fun playing all those old classics!
 
@@ -55,10 +55,3 @@ Above is the list of all the versions of a game that Sonic Unison will support, 
 ![Sonic 2 Prototypes](https://cdn.discordapp.com/attachments/872338564241850398/872369813798940672/Sonic_2_Prototypes.png)
 ![Sonic 3 Prototypes](https://cdn.discordapp.com/attachments/872338564241850398/872369824989323304/Sonic_3_Prototypes.png)
 ![Sonic 3 1103 Prototype Info](https://cdn.discordapp.com/attachments/872338564241850398/872367228962631710/Sonic_3_1103_Info_Screens.png)
-
-
-
-
-
-
-
