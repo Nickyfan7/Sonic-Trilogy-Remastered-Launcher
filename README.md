@@ -2,7 +2,7 @@
 ## What is Sonic Unison?
 Sonic Unison is a Launcher Interface for Sonic 1,2,3 and Sonic Mania with support for any PC/Emulated releases of those games. It started life after the  Sonic 1,2,and CD (2011-2013) Decopmilations by RubberDuckyCooly were created and made public. 
 
-Initially they had a menu where you could choose between the Sonic 1 and 2 RSDKs if bothe were provided to the executable since Sonic 1 and 2 (2013) worked on the same engine (Retro Engine Version 4) I then went on to mockup a graphical interface for the menu:
+Initially they had a menu where you could choose between the Sonic 1 and 2 RSDKs if both were provided to the executable since Sonic 1 and 2 (2013) worked on the same engine (Retro Engine Version 4) I then went on to mockup a graphical interface for the menu:
 <br>![Sonic Unison Initial Concept](https://cdn.discordapp.com/attachments/368250005292711957/803084738016313364/Game_Select_Menu.png)</br>
 
 However the idea of adding it to the decomps was shut down, but I didn't want to waste the assets so when someone suggested a launcher for the games akin to Sonic Between the Trilogy by CompoundGames, I jumped at it.
