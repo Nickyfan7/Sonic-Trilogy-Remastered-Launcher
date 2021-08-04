@@ -44,6 +44,9 @@ Here you can do multiple things regarding one of the 5 Launchable games: Look at
 *Steam (2017) - Must own it on steam.<br>
 *Epic Games (2017) - Must own it on the Epic Games Store.<br>
 
+- George Washington
+- John Adams
+- Thomas Jefferson
 Above is the list of all the versions of a game that Sonic Unison will support, have fun playing all those old classics!
 
 # Screenshots/Mockups
