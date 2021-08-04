@@ -22,7 +22,7 @@ Here you can do multiple things regarding one of the 5 Launchable games: Look at
 - Original (1991) ~ Must own on Steam.
 - Sonic 1 Remastered (2013) ~ Requires the Decompilation from Rubberduckycooly
 - Sonic Forever (2021) ~ Must own Sonic Forever as an EXE
-- Sonic 1: South Island Enchanced ~ Planned, When it releases.
+- Sonic 1: South Island Enchanced (????) ~ Planned, When it releases.
 
 ### Sonic the Hedgehog 2
 - Original (1992) ~ Must own on steam.
