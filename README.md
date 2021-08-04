@@ -3,16 +3,16 @@
 Sonic Unison is a Launcher Interface for Sonic 1,2,3 and Sonic Mania with support for any PC/Emulated releases of those games. It started life after the  Sonic 1,2,and CD (2011-2013) Decopmilations by RubberDuckyCooly were created and made public. 
 
 Initially they had a menu where you could choose between the Sonic 1 and 2 RSDKs if bothe were provided to the executable since Sonic 1 and 2 (2013) worked on the same engine (Retro Engine Version 4) I then went on to mockup a graphical interface for the menu:
-<br>![Sonic Unison Initial Concept](https://cdn.discordapp.com/attachments/368250005292711957/803084738016313364/Game_Select_Menu.png)
+<br>![Sonic Unison Initial Concept](https://cdn.discordapp.com/attachments/368250005292711957/803084738016313364/Game_Select_Menu.png)</br>
 
 However the idea of adding it to the decomps was shut down, but I didn't want to waste the assets so when someone suggested a launcher for the games akin to Sonic Between the Trilogy by CompoundGames, I jumped at it.
 
 So as time went on however what was seen above evolved into this:
-![Sonic Unison Current Mockup](https://cdn.discordapp.com/attachments/872338564241850398/872369792856772668/Game_Select.png)
+<br>![Sonic Unison Current Mockup](https://cdn.discordapp.com/attachments/872338564241850398/872369792856772668/Game_Select.png)</br>
 
 ## So it just launches the games?
 If you want to use it that way then yes, however I figured I'd try to channel the energy of the 2000's Sonic Compilations. This means there's more to it than just launching the games I plan to include an extras menu:
-![Sonic Unison Extras](https://cdn.discordapp.com/attachments/872338564241850398/872578561922449438/Extras.png)
+<br>![Sonic Unison Extras](https://cdn.discordapp.com/attachments/872338564241850398/872578561922449438/Extras.png)</br>
 
 Here you can do multiple things regarding one of the 5 Launchable games: Look at Cheat Codes, Read up about and even play a games prototype (if it's of found status), read developer interviews, the game manuals, view promotional art, and unused content from each.
 
